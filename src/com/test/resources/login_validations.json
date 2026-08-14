@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Login with empty user",
+        "username": "",
+        "password": "testpw",
+        "documentation": "this is a test case to login with empty username"
+    },
+    {
+        "name": "Login with empty password",
+        "username": "testuser",
+        "password": "",
+        "documentation": "this is a test case to login with empty password"
+    },
+    {
+        "name": "Login with invalid password",
+        "username": "testuser",
+        "password": "invalid_pw",
+        "documentation": "this is a test case to login with invalid password"
+    }
+]
