@@ -1,10 +1,10 @@
 # Introduction 
-This is a demo project showcasing the same Salesforce Lightning tests implemented across three automation frameworks side-by-side: Java (Cucumber + JUnit 5 + Maven). It serves as a learning/comparison reference rather than a production test suite.
+This is a demo project showcasing the same Salesforce Lightning tests implemented with Java (Cucumber + JUnit 5 + Maven). It serves as a learning/comparison reference rather than a production test suite.
 
 # Getting Started
 
-1. Download [chromedriver](https://googlechromelabs.github.io/chrome-for-testing/), be aware of the chrome browser version; Then put it under the *\\Python\\* folder, like: *..\Users\${userfolder}\AppData\Local\Programs\Python\Python310*
-3. Download [VSCode](https://code.visualstudio.com/download), and select your preferred version for your mac or windows desktop.
+1. Download [chromedriver](https://googlechromelabs.github.io/chrome-for-testing/), be aware of the chrome browser version;
+2. Download [VSCode](https://code.visualstudio.com/download), and select your preferred version for your mac or windows desktop.
 
 # Java
 
